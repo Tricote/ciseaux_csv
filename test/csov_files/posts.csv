@@ -1,0 +1,4 @@
+title;date;author[name];author[email];tags[];comments[][body];comments[][date]
+"First Post !";"2015-01-01";"John Doe";"john@example.com";"ruby|rails|gem";"Great Post! Thx|Not so good...";"2015-01-02|2015-01-03"
+"Second Post !";"2015-02-01";"John Doe";"john@example.com";"python|django";"Nobody reads you dude...";"2015-02-02"
+"Last Post, closing blog";"2015-08-01";"John Doe";"john@example.com";"java";"Etre ou ne pas être...";"2015-08-02"
